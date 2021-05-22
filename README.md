@@ -1,6 +1,6 @@
 # View at
 
-https://namangupta8.github.io/bmi-calculator
+https://NamanGupta8.github.io/bmi-calculator
 
 
 # BmiCalculator
